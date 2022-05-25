@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Рыбки Кои</string>
+    <string name="txt_fish">рыбки кои</string>
+    <string name="btn_fish">добавить корм</string>
+</resources>
